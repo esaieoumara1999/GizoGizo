@@ -1,0 +1,26 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container1{
+    margin-top: 4vh;
+    margin-bottom: 5vh;
+}
+.limg{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    width: 450px;
+    border-radius: 150px;
+    height: 300px;
+}
+.url{
+    background: url(image/codecode.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.lipton{
+    background: url(image/images.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
